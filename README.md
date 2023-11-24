@@ -5,4 +5,4 @@
 - 👋 Hi, I’m @dishaAgarwal
 - 👀 I’m interested in problem-solving and design
 - 🌱 I’m currently learning C++
-- 📫 You can reach me @ agarwal.di@northeastern.edu
+- 📫 You can reach me @ miss.dishaag@gmail.com
